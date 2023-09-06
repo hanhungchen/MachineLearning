@@ -1,2 +1,2 @@
 # MachineLearning
-This is for some prac
+There are some practices about deep learning from open source classes.
